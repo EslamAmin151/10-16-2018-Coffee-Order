@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  background-color: gray;
+  color: white;
+  background-image:url(coffe.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  height: 75px;
+  color: white;
+  background-color:blue;
+}
+
+.header h1 {
+  vertical-align: middle;
+  margin: auto;
+}
+
+.divide {
+  width: 20%;
+  margin-left: 0;
+
+}
+
+.orderInput {
+  margin-left: 40%;
+  margin-top:15px;
+}
+
+.emailSearch {
+  margin-left: 40%;
+  margin-top:15px;}
+
+.deleteOrder {
+  margin-left: 40%;
+  margin-top:15px;
+}
+
+.showOrder {
+  margin-left: 40%;
+  margin-top:15px;}
